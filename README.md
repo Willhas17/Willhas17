@@ -29,8 +29,19 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willhas17&theme=dracula&show_icons=true" />
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Willhas17&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willhas17&theme=dracula&hide_langs_below=1" />
 </a>
 
 <br/>
